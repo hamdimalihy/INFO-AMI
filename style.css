@@ -1,0 +1,25 @@
+
+.commandeclient{
+    height:200px;
+    margin-top: 150px;
+    background-color: indianred;
+}
+
+
+
+.jumbotron
+{
+    width:100%;
+    margin-top:100px;
+    border:2px solid #333333;
+    border-collapse:separate;
+    border-spacing:0;
+    border-radius:14px;
+}
+
+.Titre_2 
+{
+    color:#007bff;
+    font-size:1rem;
+    font-weight:bold;
+}
